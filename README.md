@@ -1,5 +1,7 @@
 # Java Live Study
-[백기선님](https://github.com/whiteship/live-study)께서 진행하시는 Java live study 정리 공간 
+Java live study 정리 공간 
+
+> Java Live Study ? [백기선님이 진행하시는 스터디](https://github.com/whiteship/live-study)
 
 -----
 
