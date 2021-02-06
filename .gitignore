@@ -1,3 +1,13 @@
+.idea
+.metadata
+.recommenders
+.settings
+bin/
+.classpath
+.project
+*.iml
+*.log
+
 # Compiled class file
 *.class
 
