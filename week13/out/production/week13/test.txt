@@ -1,0 +1,6 @@
+readthis
+printthis
+hi
+hello
+world
+end

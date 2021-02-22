@@ -55,7 +55,7 @@ Java live study 정리 공간
 
 #### #13주차 
 
-- [I/O]
+- [I/O](https://void2017.tistory.com/223)
 
 #### #14주차 
 
