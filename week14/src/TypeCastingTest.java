@@ -5,7 +5,7 @@ public class TypeCastingTest {
         // 1) 비제네릭 코드
         ArrayList listWithoutGeneric = new ArrayList();
         listWithoutGeneric.add("list Without Genreic");
-        String stringWithoutGenric = listWithoutGeneric.get(0);
+//        String stringWithoutGenric = listWithoutGeneric.get(0);
 
         // 2) 제네릭 코드
         ArrayList<String> listWithGeneric = new ArrayList<>();
