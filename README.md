@@ -59,7 +59,7 @@ Java live study 정리 공간
 
 #### #14주차 
 
-- [제네릭]
+- [제네릭](https://void2017.tistory.com/225)
 
 #### #15주차 
 
