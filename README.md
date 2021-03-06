@@ -63,7 +63,7 @@ Java live study 정리 공간
 
 #### #15주차 
 
-- [람다식]
+- [람다식](https://void2017.tistory.com/229)
 
 
 
